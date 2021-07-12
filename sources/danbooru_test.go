@@ -3,7 +3,7 @@ package sources_test
 import (
 	"testing"
 
-	"github.com/c032/booru-go/sources"
+	"github.com/c032/go-booru/sources"
 )
 
 func TestDanbooru_Image(t *testing.T) {

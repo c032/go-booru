@@ -1,4 +1,4 @@
-# booru-go
+# go-booru
 
 Booru client.
 

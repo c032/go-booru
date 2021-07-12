@@ -1,3 +1,3 @@
-module github.com/c032/booru-go
+module github.com/c032/go-booru
 
-go 1.12
+go 1.16

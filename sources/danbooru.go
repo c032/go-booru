@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/c032/booru-go"
+	"github.com/c032/go-booru"
 )
 
 const danbooruURLStr = "https://danbooru.donmai.us/"
