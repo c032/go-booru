@@ -7,3 +7,4 @@ Booru client.
 This library provides direct support for the following boorus:
 
 * Danbooru.
+* Yande.re.
